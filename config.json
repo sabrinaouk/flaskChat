@@ -1,0 +1,8 @@
+{
+    "IMGBB_KEY": "c55d543777c09d6ed6209e1b85b90710",
+    "SECRET_KEY": "SDKFJSDFOWEIOF",
+    "UPLOAD_FOLDER": "uploads",
+    "SQLALCHEMY_DATABASE_URI": "mysql+pymysql://django:enauto@localhost:3306/chat"
+
+  }
+  
